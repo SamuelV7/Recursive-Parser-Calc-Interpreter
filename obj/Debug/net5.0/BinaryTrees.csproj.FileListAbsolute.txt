@@ -1,0 +1,30 @@
+/Users/samuelvarghese/Projects/BinaryTrees/BinaryTrees/bin/Debug/net5.0/BinaryTrees.deps.json
+/Users/samuelvarghese/Projects/BinaryTrees/BinaryTrees/bin/Debug/net5.0/BinaryTrees.runtimeconfig.json
+/Users/samuelvarghese/Projects/BinaryTrees/BinaryTrees/bin/Debug/net5.0/BinaryTrees.runtimeconfig.dev.json
+/Users/samuelvarghese/Projects/BinaryTrees/BinaryTrees/bin/Debug/net5.0/BinaryTrees.dll
+/Users/samuelvarghese/Projects/BinaryTrees/BinaryTrees/bin/Debug/net5.0/ref/BinaryTrees.dll
+/Users/samuelvarghese/Projects/BinaryTrees/BinaryTrees/bin/Debug/net5.0/BinaryTrees.pdb
+/Users/samuelvarghese/Projects/BinaryTrees/BinaryTrees/obj/Debug/net5.0/BinaryTrees.csprojAssemblyReference.cache
+/Users/samuelvarghese/Projects/BinaryTrees/BinaryTrees/obj/Debug/net5.0/BinaryTrees.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelvarghese/Projects/BinaryTrees/BinaryTrees/obj/Debug/net5.0/BinaryTrees.AssemblyInfoInputs.cache
+/Users/samuelvarghese/Projects/BinaryTrees/BinaryTrees/obj/Debug/net5.0/BinaryTrees.AssemblyInfo.cs
+/Users/samuelvarghese/Projects/BinaryTrees/BinaryTrees/obj/Debug/net5.0/BinaryTrees.csproj.CoreCompileInputs.cache
+/Users/samuelvarghese/Projects/BinaryTrees/BinaryTrees/obj/Debug/net5.0/BinaryTrees.dll
+/Users/samuelvarghese/Projects/BinaryTrees/BinaryTrees/obj/Debug/net5.0/ref/BinaryTrees.dll
+/Users/samuelvarghese/Projects/BinaryTrees/BinaryTrees/obj/Debug/net5.0/BinaryTrees.pdb
+/Users/samuelvarghese/Projects/BinaryTrees/BinaryTrees/obj/Debug/net5.0/BinaryTrees.genruntimeconfig.cache
+/Users/samuelvarghese/Desktop/Development Learn/BinaryTrees/bin/Debug/net5.0/BinaryTrees.deps.json
+/Users/samuelvarghese/Desktop/Development Learn/BinaryTrees/bin/Debug/net5.0/BinaryTrees.runtimeconfig.json
+/Users/samuelvarghese/Desktop/Development Learn/BinaryTrees/bin/Debug/net5.0/BinaryTrees.runtimeconfig.dev.json
+/Users/samuelvarghese/Desktop/Development Learn/BinaryTrees/bin/Debug/net5.0/BinaryTrees.dll
+/Users/samuelvarghese/Desktop/Development Learn/BinaryTrees/bin/Debug/net5.0/ref/BinaryTrees.dll
+/Users/samuelvarghese/Desktop/Development Learn/BinaryTrees/bin/Debug/net5.0/BinaryTrees.pdb
+/Users/samuelvarghese/Desktop/Development Learn/BinaryTrees/obj/Debug/net5.0/BinaryTrees.csprojAssemblyReference.cache
+/Users/samuelvarghese/Desktop/Development Learn/BinaryTrees/obj/Debug/net5.0/BinaryTrees.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelvarghese/Desktop/Development Learn/BinaryTrees/obj/Debug/net5.0/BinaryTrees.AssemblyInfoInputs.cache
+/Users/samuelvarghese/Desktop/Development Learn/BinaryTrees/obj/Debug/net5.0/BinaryTrees.AssemblyInfo.cs
+/Users/samuelvarghese/Desktop/Development Learn/BinaryTrees/obj/Debug/net5.0/BinaryTrees.csproj.CoreCompileInputs.cache
+/Users/samuelvarghese/Desktop/Development Learn/BinaryTrees/obj/Debug/net5.0/BinaryTrees.dll
+/Users/samuelvarghese/Desktop/Development Learn/BinaryTrees/obj/Debug/net5.0/ref/BinaryTrees.dll
+/Users/samuelvarghese/Desktop/Development Learn/BinaryTrees/obj/Debug/net5.0/BinaryTrees.pdb
+/Users/samuelvarghese/Desktop/Development Learn/BinaryTrees/obj/Debug/net5.0/BinaryTrees.genruntimeconfig.cache
